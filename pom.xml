@@ -59,7 +59,7 @@
    <dependency>
       <groupId>com.temenos.infinity</groupId>
       <artifactId>OriginationWorkItem</artifactId>
-      <systemPath> ${pom.basedir}/lib/OriginationWorkItem-25.0.0.jar</systemPath>
+      <systemPath> ${pom.basedir}/OriginationWorkItem-25.0.0.jar</systemPath>
       <version>25.0.0</version>
       <scope>system</scope>
     </dependency>
